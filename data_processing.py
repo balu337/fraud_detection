@@ -1,6 +1,6 @@
 
 print(" Adding all Data processing logic to  .py file")
-<<<<<<< HEAD
+
 
 
 a=5
@@ -13,5 +13,4 @@ def add(x,y):
 def multiply(x,y):
     a=x*y
     retunr x
-=======
->>>>>>> parent of 93abb65 ( for loop commit)
+
