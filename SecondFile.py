@@ -5,6 +5,7 @@ print('Mty second file')
 
 
 for i in range ( 0,6):
+<<<<<<< HEAD
     print(f"hello {i}th time")
 
 #add function 
