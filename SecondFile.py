@@ -1,11 +1,11 @@
 print('Mty second file')
 
 
-print(" my second line")
+
 
 
 for i in range ( 0,6):
     print(f"hello {i}th time")
 
 
-
+print(" my 3rd  line")
